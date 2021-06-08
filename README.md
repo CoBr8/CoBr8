@@ -1,0 +1,4 @@
+- Undergraduate student in physics
+- interested in solid-state physics
+- mostly fun side projects
+- I use arch, btw.
